@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=Algebraliens&left_color=%23fff15c&right_color=%23ffe014&format=true)
 
 ![image alt](https://github.com/X-VariabIe/X-VariabIe/blob/38a725deacab5d17e933b920f4299ade85e69802/four-bfdi-four.gif)
 
